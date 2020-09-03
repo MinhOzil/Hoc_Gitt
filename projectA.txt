@@ -4,3 +4,5 @@ int main(void)
 { 
 return 0;
 }
+co che quan ly luu tru o dau, nhu the nao
+khai niem nhanh, cac thao tac push pull, commit
